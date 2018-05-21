@@ -47,7 +47,7 @@ class Boat {
     }
   }
 
-  get wood () {
+  get wood() {
     return this.wood_;
   }
 }
