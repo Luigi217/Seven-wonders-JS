@@ -1,11 +1,9 @@
 const chai = require('chai');
 const chaiAsPromised = require('chai-as-promised');
-const sinon = require('sinon');
 const {Divinity} = require('../app/divinity');
 
 chai.use(chaiAsPromised);
 chai.should();
-
 
 describe('world-worldEvents_.js', () => {
   describe('worldEvents', () => {
@@ -46,7 +44,7 @@ describe('world-worldEvents_.js', () => {
           retribution.should.be.above(-1);
           retribution.should.be.below(10000);
           resolve();
-        })
+        });
       });
     });
   });
