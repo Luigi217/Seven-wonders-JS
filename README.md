@@ -5,7 +5,7 @@
 This project contains 4 Javascript classes that can be used to create a game.
 This is a school project for our Javascript class.
 Group members:
- - Amauy Cahuet
+ - Amaury Cahuet
  - Julien Bravo
  - Julien Neveux
 
