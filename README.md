@@ -19,7 +19,7 @@ Group members:
 
 ## Download
 ```
-git clone https://github.com/Luigi217/Seven-wonders-JS
+git clone https://github.com/Luigi217/Seven-wonders-JS.git
 ```
 
 ## Prerequisites
