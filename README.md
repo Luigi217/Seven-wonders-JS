@@ -3,6 +3,11 @@
 ## Description
 
 This project contains 3 Javascript classes that can be used to create a game.
+This is a school project for our Javascript class.
+Group members:
+ - Amauy Cahuet
+ - Julien Bravo
+ - Julien Neveux
 
 ## Contents
 
@@ -54,14 +59,6 @@ Install dependencies simply by using JSON package
 npm install
 ```
 
-### Lauching the game (finally)
-
-```
-npm run start
-```
-
 ## Development
 
 Added 4 JS classes: divinity, units, city and boat.
-
-
